@@ -1,0 +1,19 @@
+/* 
+    Created on : 04/02/2019, 03:36:24 PM
+    Author     : Ricardo Presilla.
+    Licencia GNU.
+*/
+.activo{
+    background-color: #ccffcc;
+}
+.demo-alert-box{
+    background-color: #ffcccc;
+    color: #990000;
+    text-align: center;
+}
+.autor{
+    font-family: Arial, sans-serif, Helvetica;
+    font-style: italic;
+    color: #c00cff;
+    background-color: #f2f1df;
+}
